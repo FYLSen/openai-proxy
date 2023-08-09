@@ -1,0 +1,4 @@
+name = "openai-proxy"
+type = "javascript"
+main = "cloudflare-worker.js"
+compatibility_date = "2023-08-09"
